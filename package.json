@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "react-admin-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000 --middlewares ./range.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "post two",
+      "body": "this is the body two",
+      "publisdedAt": "10-02-2022"
+    },
+    {
+      "id": 3,
+      "title": "post three",
+      "body": "this is the body three",
+      "publisdedAt": "10-02-2022"
+    },
+    {
+      "id": 4,
+      "title": "post four sdf",
+      "body": "this is the body four",
+      "publisdedAt": "10-02-2022"
+    },
+    {
+      "id": 5,
+      "title": "post five",
+      "body": "this is the body five",
+      "publisdedAt": "10-02-2022"
+    },
+    {
+      "id": 6,
+      "title": "post six",
+      "body": "this is the body six",
+      "publisdedAt": "10-02-2022"
+    },
+    {
+      "title": "this is the create test",
+      "body": "asdfsdfasdfasdf",
+      "publishedAt": "2022-12-03",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "name": "josh Doel",
+      "email": "josh@example.com"
+    },
+    {
+      "id": "3",
+      "name": "joshi nuel",
+      "email": "josh@example.com"
+    },
+    {
+      "id": "4",
+      "name": "George stinis",
+      "email": "josh@example.com"
+    }
+  ]
+}
